@@ -1,0 +1,19 @@
+.bg-preto {
+    background-color: black;
+}
+
+.bg-verde {
+    background-color: #616b39;
+}
+
+.border-main {
+    border: 3px solid #322c1e;
+}
+
+body {
+    background-image: url('img/fundo.jpg');
+}
+
+* {
+    color: white;
+}   
